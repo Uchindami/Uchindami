@@ -1,4 +1,4 @@
-# Hi there 👋
+# Your life choices led you here 👋
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Uchindami)
 
@@ -20,7 +20,7 @@ How I have used more C than Python & JS **COMBINED** is beyond me.
 
 <div style="display: flex; flex-wrap: wrap;  ">
 
-<a href="https://uchindami.vercel.app/#contact" style="display: inline-block; padding: 10px 20px; font-size: 10px; font-weight: bold; color: #fff; background-color: black; border-radius: 5px; text-decoration: none; margin:5px;  ">Contact Me</a>
+<a href="https://uchindami.vercel.app/#contact" style="display: inline-block; padding: 10px 20px; font-size: 10px; font-weight: bold; color: #fff; background-color: black; border-radius: 5px; text-decoration: none; margin:5px;  ">Send Message</a>
 
 <a href="https://uchindami.vercel.app/#contact" style="display: inline-block; padding: 10px 20px; font-size: 10px; font-weight: bold; color: #fff; background-color: black; border-radius: 5px; text-decoration: none; margin:5px;">Portfolio</a>
 
