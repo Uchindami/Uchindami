@@ -14,4 +14,14 @@
 <br>
 How I have used more C than Python & JS **COMBINED** is beyond me.
 
-#### Happy to connect and chat about anything tech, gaming, or coffee related.
+#### Happy to connect and chat about anything tech, gaming, or coffee related. 
+
+### Contact me  
+
+<div style="display: flex; flex-wrap: wrap;  ">
+
+<a href="https://uchindami.vercel.app/#contact" style="display: inline-block; padding: 10px 20px; font-size: 10px; font-weight: bold; color: #fff; background-color: black; border-radius: 5px; text-decoration: none; margin:5px;  ">Contact Me</a>
+
+<a href="https://uchindami.vercel.app/#contact" style="display: inline-block; padding: 10px 20px; font-size: 10px; font-weight: bold; color: #fff; background-color: black; border-radius: 5px; text-decoration: none; margin:5px;">Portfolio</a>
+
+</div>
